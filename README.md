@@ -5,6 +5,9 @@
 ## 분류
 ### Python
 - [itertools](Python/itertools.md)
+### Web
+- [HTML](Web/HTML.md)
+- [CSS](Web/CSS.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/Topological%20Sort.md)
