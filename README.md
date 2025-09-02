@@ -12,3 +12,4 @@
 - [Bellman-Ford Algorithm](Algorithm/Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/Topological%20Sort.md)
 - [Two-Pointers Algorithm](Algorithm/Two-Pointers%20Algorithm.md)
+- [Longest Increasing Subsequence](Algorithm/Longest%20Increasing%20Subsequence.md)
