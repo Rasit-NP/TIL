@@ -44,6 +44,7 @@ from decimal import ROUND_HALF_EVEN, ROUND_HALF_UP, ROUND_DOWN, ROUND_UP, ROUND_
 
 ## Context
 연산의 **정밀도(prec), 반올림 모드(rounding), 지수 범위(Emin/Emax), flags/traps** 등을 결정
+
 전역 기본 `context`는 `getcontext()`로 얻음
 
 - `getcontext()`/`setcontext(ctx)`
