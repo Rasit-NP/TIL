@@ -5,6 +5,7 @@
 ## 분류
 ### Python
 - [itertools](Python/itertools.md)
+- [decimal](Python/decimal.md)
 ### Web
 - [HTML](Web/HTML.md)
 - [CSS](Web/CSS/CSS.md)
