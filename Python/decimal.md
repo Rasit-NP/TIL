@@ -12,7 +12,7 @@ from decimal import ROUND_HALF_EVEN, ROUND_HALF_UP, ROUND_DOWN, ROUND_UP, ROUND_
     - `d.quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)`
 - `normalize()`
     - trailing zero 제거
-    - `Decimal('2.5000').normalize()` -> `Decimal('2.5')
+    - `Decimal('2.5000').normalize()` -> `Decimal('2.5')`
 - `as_tuple()`
     - 내부 표현(sign, digits, exponent) 반환
     - 내부 디버그/검증에 유용
