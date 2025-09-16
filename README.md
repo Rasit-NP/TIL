@@ -15,3 +15,4 @@
 - [Two-Pointers Algorithm](Algorithm/Two-Pointers%20Algorithm.md)
 - [Longest Increasing Subsequence](Algorithm/Longest%20Increasing%20Subsequence.md)
 - [Union Find(Disjoint Set Union)](Algorithm/Union%20Find%20(Disjoint%20Set%20Union).md)
+- [Minimum Spanning Tree](Algorithm/Minimum%20Spanning%20Tree.md)
