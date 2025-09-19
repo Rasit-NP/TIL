@@ -16,3 +16,4 @@
 - [Longest Increasing Subsequence](Algorithm/Longest%20Increasing%20Subsequence.md)
 - [Union Find(Disjoint Set Union)](Algorithm/Union%20Find%20(Disjoint%20Set%20Union).md)
 - [Minimum Spanning Tree](Algorithm/Minimum%20Spanning%20Tree.md)
+- [Segment Tree](Algorithm/Segment%20Tree.md)
