@@ -9,6 +9,12 @@
 ### Web
 - [HTML](Web/HTML.md)
 - [CSS](Web/CSS/CSS.md)
+### Django
+- [Intro](Django/1.%20Intro.md)
+- [Design Pattern](Django/2.%20Design%20Pattern.md)
+- [Template](Django/3.%20Template.md)
+- [HTML form](Django/4.%20HTML%20form.md)
+- [URLs](Django/5.%20URLs.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/Topological%20Sort.md)
