@@ -15,6 +15,11 @@
 - [Template](Django/3.%20Template.md)
 - [HTML form](Django/4.%20HTML%20form.md)
 - [URLs](Django/5.%20URLs.md)
+- [Model](Django/6.%20Model.md)
+- [Admin Site](Django/7.%20Admin%20Site.md)
+- [ORM](Django/8.%20ORM.md)
+- [CRUD](Django/9.%20CRUD.md)
+- [ORM with view](Django/10.%20ORM%20with%20view.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/Topological%20Sort.md)
