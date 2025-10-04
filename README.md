@@ -23,6 +23,7 @@
 - [CRUD](Django/09.%20CRUD.md)
 - [ORM with view](Django/10.%20ORM%20with%20view.md)
 - [Django Form](Django/11.%20Django%20Form.md)
+- [Authentication](Django/12.%20Authentication.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/Topological%20Sort.md)
