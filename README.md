@@ -6,6 +6,8 @@
 ### Python
 - [itertools](Python/itertools.md)
 - [decimal](Python/decimal.md)
+### C
+- [The Fundamental Data Types](C/01.%20The%20Fundamental%20Data%20Types.md)
 ### Web
 - [HTML](Web/HTML.md)
 - [CSS](Web/CSS/CSS.md)
