@@ -6,6 +6,7 @@
 ### Python
 - [itertools](Python/itertools.md)
 - [decimal](Python/decimal.md)
+- [numpy](Python/numpy.md)
 ### C
 - [The Fundamental Data Types](C/01.%20The%20Fundamental%20Data%20Types.md)
 - [Flow of Control](C/02.%20Flow%20of%20Control.md)
