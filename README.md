@@ -9,6 +9,7 @@
 ### C
 - [The Fundamental Data Types](C/01.%20The%20Fundamental%20Data%20Types.md)
 - [Flow of Control](C/02.%20Flow%20of%20Control.md)
+- [Functions](C/03.%20Functions.md)
 ### Web
 - [HTML](Web/HTML.md)
 - [CSS](Web/CSS/CSS.md)
