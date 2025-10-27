@@ -38,3 +38,4 @@
 - [Segment Tree](Algorithm/07.%20Segment%20Tree.md)
 - [Traveling Salesman Problem](Algorithm/08.%20Traveling%20Salesman%20Problem.md)
 - [Lowest Common Ancestor](Algorithm/09.%20Lowest%20Common%20Ancestor.md)
+- [Strong Connected Component](Algorithm/10.%20Strong%20Connected%20Component.md)
