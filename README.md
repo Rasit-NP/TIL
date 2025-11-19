@@ -28,6 +28,7 @@
 - [Django Form](Django/11.%20Django%20Form.md)
 - [Authentication](Django/12.%20Authentication.md)
 - [Account Management](Django/13.%20Account%20Management.md)
+- [Static & Media](Django/14.%20Static%20&%20Media.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/01.%20Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/02.%20Topological%20Sort.md)
