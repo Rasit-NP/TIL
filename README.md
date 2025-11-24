@@ -32,6 +32,7 @@
 - [Django REST Framework.md](Django/15.%20Django%20REST%20Framework.md)
 ### JavaScript
 - [Variables](JavaScript/01.%20Variables.md)
+- [Document Object Model](JavaScript/02.%20Document%20Object%20Model.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/01.%20Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/02.%20Topological%20Sort.md)
