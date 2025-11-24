@@ -30,6 +30,8 @@
 - [Account Management](Django/13.%20Account%20Management.md)
 - [Static & Media](Django/14.%20Static%20&%20Media.md)
 - [Django REST Framework.md](Django/15.%20Django%20REST%20Framework.md)
+### JavaScript
+- [Variables](JavaScript/01.%20Variables.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/01.%20Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/02.%20Topological%20Sort.md)
