@@ -29,7 +29,7 @@
 - [Authentication](Django/12.%20Authentication.md)
 - [Account Management](Django/13.%20Account%20Management.md)
 - [Static & Media](Django/14.%20Static%20&%20Media.md)
-- [Django REST Framework.md](Django/15.%20Django%20REST%20Framework.md)
+- [Django REST Framework](Django/15.%20Django%20REST%20Framework.md)
 ### JavaScript
 - [Variables](JavaScript/01.%20Variables.md)
 - [Document Object Model](JavaScript/02.%20Document%20Object%20Model.md)
