@@ -34,6 +34,7 @@
 - [Variables](JavaScript/01.%20Variables.md)
 - [Document Object Model](JavaScript/02.%20Document%20Object%20Model.md)
 - [Data Type](JavaScript/03.%20Data%20Type.md)
+- [Operators](JavaScript/04.%20Operators.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/01.%20Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/02.%20Topological%20Sort.md)
