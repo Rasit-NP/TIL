@@ -38,6 +38,7 @@
 - [Flow of Control](JavaScript/05.%20Flow%20of%20Control.md)
 - [Function](JavaScript/06.%20Function.md)
 - [Object](JavaScript/07.%20Object.md)
+- [Array](JavaScript/08.%20Array.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/01.%20Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/02.%20Topological%20Sort.md)
