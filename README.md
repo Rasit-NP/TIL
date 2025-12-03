@@ -36,6 +36,7 @@
 - [Data Type](JavaScript/03.%20Data%20Type.md)
 - [Operators](JavaScript/04.%20Operators.md)
 - [Flow of Control](JavaScript/05.%20Flow%20of%20Control.md)
+- [Function](JavaScript/06.%20Function.md)
 ### Algorithm
 - [Bellman-Ford Algorithm](Algorithm/01.%20Bellman-Ford%20Algorithm.md)
 - [Topological Sort](Algorithm/02.%20Topological%20Sort.md)
