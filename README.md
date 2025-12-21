@@ -50,3 +50,4 @@
 - [Traveling Salesman Problem](Algorithm/08.%20Traveling%20Salesman%20Problem.md)
 - [Lowest Common Ancestor](Algorithm/09.%20Lowest%20Common%20Ancestor.md)
 - [Strong Connected Component](Algorithm/10.%20Strong%20Connected%20Component.md)
+- [KMP Algorithm](Algorithm/11.%20KMP%20Algorithm.md)
