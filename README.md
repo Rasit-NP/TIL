@@ -10,6 +10,8 @@
 ### Java
 - [Variables](Java/01.%20Variables.md)
 - [Type of Variables](Java/02.%20Type%20of%20Variables.md)
+- [Array](Java/03.%20Array.md)
+- [String Array](Java/04.%20String%20Array.md)
 ### C
 - [The Fundamental Data Types](C/01.%20The%20Fundamental%20Data%20Types.md)
 - [Flow of Control](C/02.%20Flow%20of%20Control.md)
