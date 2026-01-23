@@ -2,6 +2,12 @@
 
 - 하루동안 학습한 내용과 경험들의 기록
 
+## Daily-Log
+- [2025-10](daily-log/2025-10/2025-10.md)
+- [2025-11](daily-log/2025-11/2025-11.md)
+- [2025-12](daily-log/2025-12/2025-12.md)
+- [2026-01](daily-log/2026-01/2026-01.md)
+
 ## 분류
 ### Python
 - [itertools](Python/itertools.md)
