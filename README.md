@@ -78,3 +78,4 @@
 - [Strong Connected Component](Algorithm/10.%20Strong%20Connected%20Component.md)
 - [KMP Algorithm](Algorithm/11.%20KMP%20Algorithm.md)
 - [Trie](Algorithm/12.%20Trie.md)
+- [Convex Hull](Algorithm/13.%20Convex%20Hull.md)
