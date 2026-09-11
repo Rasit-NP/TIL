@@ -3,6 +3,8 @@
 - [2026-03-12](2026-03-12.md)
     - Promethues & Grafana
     - Docker Compose를 활용한 Prometheus & Grafana 설정
+- [2026-03-13](2026-03-13.md)
+    - Trouble Shooting: Spring Boot 4.0 모니터링 수집 불가 장애
 - [2026-03-16](2026-03-16.md)
     - C++ 상호 참조 구조체
     - Docker Hub + Jenkins CI/CD 구축

@@ -3,16 +3,16 @@
 - 하루동안 학습한 내용과 경험들의 기록
 
 ## Daily-Log
-- [2025-10](daily-log/2025-10/2025-10.md)
-- [2025-11](daily-log/2025-11/2025-11.md)
-- [2025-12](daily-log/2025-12/2025-12.md)
-- [2026-01](daily-log/2026-01/2026-01.md)
-- [2026-02](daily-log/2026-02/2026-02.md)
-- [2026-03](daily-log/2026-03/2026-03.md)
-- [2026-04](daily-log/2026-04/2026-04.md)
-- [2026-05](daily-log/2026-05/2026-05.md)
-- [2026-06](daily-log/2026-06/2026-06.md)
-- [2026-07](daily-log/2026-07/2026-07.md)
+- [2025-10](daily-log/2025-10/README.md)
+- [2025-11](daily-log/2025-11/README.md)
+- [2025-12](daily-log/2025-12/README.md)
+- [2026-01](daily-log/2026-01/README.md)
+- [2026-02](daily-log/2026-02/README.md)
+- [2026-03](daily-log/2026-03/README.md)
+- [2026-04](daily-log/2026-04/README.md)
+- [2026-05](daily-log/2026-05/README.md)
+- [2026-06](daily-log/2026-06/README.md)
+- [2026-07](daily-log/2026-07/README.md)
 - [2026-08](daily-log/2026-08/README.md)
 - [2026-09](daily-log/2026-09/README.md)
 
@@ -26,6 +26,7 @@
 - [Type of Variables](Java/02.%20Type%20of%20Variables.md)
 - [Array](Java/03.%20Array.md)
 - [String Array](Java/04.%20String%20Array.md)
+- [Multi-Dimensional Array](Java/05.%20Multi-Dimensional%20Array.md)
 - [Object Oriented Language](Java/06.%20Object%20Oriented%20Language.md)
 - [Class and Object](Java/07.%20Class%20and%20Object.md)
 - [Variables and Method](Java/08.%20Variables%20and%20Method.md)
@@ -47,7 +48,7 @@
 - [Functions](C/03.%20Functions.md)
 ### Web
 - [HTML](Web/HTML.md)
-- [CSS](Web/CSS/CSS.md)
+- [CSS](Web/CSS/README.md)
 ### Django
 - [Intro](Django/01.%20Intro.md)
 - [Design Pattern](Django/02.%20Design%20Pattern.md)
