@@ -15,6 +15,7 @@
 - [2026-07](daily-log/2026-07/README.md)
 - [2026-08](daily-log/2026-08/README.md)
 - [2026-09](daily-log/2026-09/README.md)
+- [2026-10](daily-log/2026-10/README.md)
 
 ## 분류
 ### Python
